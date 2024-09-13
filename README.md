@@ -1,8 +1,13 @@
 # 신용 등급 분류
-[딥러닝] 개인의 신용 관련 정보를 바탕으로 신용 점수를 분류할 수 있는 모델 구축
+[딥러닝] 개인의 신용 관련 정보를 바탕으로 신용 점수를 분류할 수 있는 모델 구축\
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
 
-### 데이터 설명
+## 문제 설명
+당신은 글로벌 금융회사에서 데이터 과학자로 일하고 있습니다. 수년에 걸쳐 회사는 기본 은행 정보를 수집하고 많은 신용 관련 정보를 수집했습니다. 경영진은 수동 작업을 줄이기 위해 직원을 신용 점수 등급으로 분리하는 지능형 시스템을 구축하려고 합니다.
+
+
+## 데이터 설명
 | 컬럼명                    | 의미           | 간단한 설명                                                  |
 |---------------------------|--------------|---------------------------------------------------------------|
 | ID                        | 항목 고유 식별자    | 각 항목에 대한 고유 식별자                                     |
@@ -32,3 +37,9 @@
 | Amount_invested_monthly    | 월별 투자 금액     | 고객이 월별로 투자한 금액 (USD 기준)                            |
 | Payment_Behaviour          | 납부 행태        | 고객의 납부 행태                                                |
 | Monthly_Balance            | 월별 잔액        | 고객의 월별 잔액 (USD 기준)                                     |
+
+
+
+---
+### 프로젝트
+- [발표자료](https://www.canva.com/design/DAGQgKHmSps/tlUMXsoOWgc6dqOrinJ2_w/view?utm_content=DAGQgKHmSps&utm_campaign=designshare&utm_medium=link&utm_source=editor)
